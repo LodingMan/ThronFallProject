@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61bf5865725b3442a23b167ffcef6ac, type: 3}
+  m_Name: ScriptableUnitBundle
+  m_EditorClassIdentifier: 
+  Units:
+  - Key: Enemy_Warrior_Melee
+    Unit: {fileID: 8750362352828434967, guid: c5e72901ae3c96e4a8febfaf360f9fec, type: 3}
+  - Key: Player
+    Unit: {fileID: 4517914785159925282, guid: 635afff9a864919468135c12679b81da, type: 3}
+  - Key: Enemy_Archer_Range
+    Unit: {fileID: 8750362352828434967, guid: 407a392270ddda54b8ba4c7341ab6adb, type: 3}
+  - Key: Ally_Warrior_Melee
+    Unit: {fileID: 8894719962685545802, guid: 57c543faf531fea4189f300a2623df47, type: 3}

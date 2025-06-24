@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 89d32f05184a31342ab98173fa8144a8
+  m_SerializeEntries:
+  - m_GUID: e30b8a90624b1ef498a6bb34c1726db6
+    m_Address: Assets/Image/TownImages/TownImg_Commander.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d760f93779ff9640be01b56b4640cf2
+    m_Address: Assets/Image/TownImages/TownImg_PreTown.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c688beec2dfe63a4baa1336e28602ce3
+    m_Address: Assets/Image/TownImages/TownImg_Turret.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13cdad656bf46984db7a22c3386ddde2
+    m_Address: Assets/Image/TownImages/TownImg_Barracks.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8290ad2aaeb64ef49a9cbedef59bdc2f
+    m_Address: Assets/Image/UnitImages/UnitImg_Enemy_Warrior.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87bef9afb6913fd49b14f6d711394a6f
+    m_Address: Assets/Image/UnitImages/UnitImg_Enemy_Archer.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af0510f923499ac4493ee75dedaaebfc
+    m_Address: Assets/Image/UnitImages/UnitImg_Enemy_Archer.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 032397b2ad32f034a8dd11cd9aca44a4
+    m_Address: Assets/Image/UnitImages/UnitImg_Enemy_Warrior.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4e2dc65567f16524dbcfe7aa2bb4b5cf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dad5226ac0ca6634da35aea31b5e2e04, type: 2}
+    - {fileID: 11400000, guid: bfbfbf6cbad834346be33332ec3a88de, type: 2}

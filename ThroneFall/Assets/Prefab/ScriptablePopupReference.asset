@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7eda7198a7196f4ea5f94d23d0bd7d3, type: 3}
+  m_Name: ScriptablePopupReference
+  m_EditorClassIdentifier: 
+  ReferenceList:
+  - Key: PopupTownSelect
+    Reference:
+      m_AssetGUID: f7141bd93b811134a973eee29509cd33
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 1
+  - Key: PopupUnitInfo
+    Reference:
+      m_AssetGUID: 0d9413cf38c0c4a44a4a895272cf6247
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - Key: PopupTownInfo
+    Reference:
+      m_AssetGUID: 2e04ffa1e547bab41bd596b4df5c2a51
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - Key: PopupGameClear
+    Reference:
+      m_AssetGUID: 3994f859809d8854c9161dc3d397a4e7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - Key: PopupGameOver
+    Reference:
+      m_AssetGUID: 42301ff58c3e0f449b48918a1aa4acfa
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - Key: PopupSelectStageConfirm
+    Reference:
+      m_AssetGUID: 9f6d4e9436ca7e04a934bb0365d38ee8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - Key: PopupSetting
+    Reference:
+      m_AssetGUID: 40b053a13f1399a479c35af2888c4200
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - Key: PopupMenu
+    Reference:
+      m_AssetGUID: 608d843f835519d4dbd4b8277c3b8ab0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

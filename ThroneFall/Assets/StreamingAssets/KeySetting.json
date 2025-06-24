@@ -1,0 +1,22 @@
+{
+  "InputSetting": {
+    "_inputBindings": [
+      {
+        "actionName": "Move",
+        "key": 324
+      },
+      {
+        "actionName": "Interaction",
+        "key": 323
+      },
+      {
+        "actionName": "Cancel",
+        "key": 27
+      },
+      {
+        "actionName": "CallUp",
+        "key": 114
+      }
+    ]
+  }
+}

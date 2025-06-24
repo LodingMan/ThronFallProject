@@ -1,0 +1,4 @@
+ID,Tier,HP,Damage,AttackCoolDown,AttackRange,Price,TownName,IconName
+Town_Commander,1,150,10,2.5,10,3,Commander,TownImg_Commander
+Town_Turret,1,100,25,1,20,3,Turret,TownImg_Turret
+Town_Barracks,1,100,0,0,0,3,Barracks,TownImg_Barracks

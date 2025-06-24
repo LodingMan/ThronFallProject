@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7eda7198a7196f4ea5f94d23d0bd7d3, type: 3}
+  m_Name: ScriptablePreLoadReference
+  m_EditorClassIdentifier: 
+  ReferenceList:
+  - Key: btnTownSelectItem
+    Reference:
+      m_AssetGUID: eedbef45461e9c646be3ccc7f1bce2e1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 1
+  - Key: btnUnitInfoItem
+    Reference:
+      m_AssetGUID: 321e67a65eaa9cf4ea898c50052f9700
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - Key: NextEnemyListItem
+    Reference:
+      m_AssetGUID: e3815e218e54d984091362916d82fb86
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

@@ -1,0 +1,7 @@
+ID,Tier,HP,Damage,AttackCoolDown,AttackRange,Price,TownName,IconName,Infomation
+Town_Commander,1,300,10,2.5,10,3,Commander,TownImg_Commander,메인 건물입니다. 건설하여 게임을 시작하세요.
+Town_Turret,1,200,25,1,15,4,Turret,TownImg_Turret,일정 간격으로 범위 안의 적을 공격합니다.
+Town_Barracks,1,150,0,0,0,4,Barracks,TownImg_Barracks,적을 공격하는 유닛을 생성합니다.
+Town_Windmill,1,150,0,0,0,3,Windmill,TonwImg_Windmill,매 라운드 추가 Coin을 지급합니다. 
+Town_Farm,1,50,0,0,0,2,Farm,TownImg_Farm,매 라운드 추가 Coin을 지급합니다. 
+Town_Wall,1,250,0,0,0,3,Wall,TownImg_Wall,적의 이동을 막아줍니다.

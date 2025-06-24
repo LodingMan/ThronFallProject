@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61bf5865725b3442a23b167ffcef6ac, type: 3}
+  m_Name: ScriptableTownBundle
+  m_EditorClassIdentifier: 
+  Units:
+  - Key: PreTown
+    Unit: {fileID: 5039114987811770939, guid: 66f39d03b1380f441986f3d088f84d79, type: 3}
+  - Key: Town_Commander
+    Unit: {fileID: 7649823163170946991, guid: 89d6be318f86dfe4aa87405e8f418a44, type: 3}
+  - Key: Town_Turret
+    Unit: {fileID: 5613194793093495033, guid: 39efa445dfdc7384ab15ada19bb388a0, type: 3}
+  - Key: Town_Barracks
+    Unit: {fileID: 2630340620494709718, guid: bd7c18cb61acb1541a3e1cde638ce440, type: 3}

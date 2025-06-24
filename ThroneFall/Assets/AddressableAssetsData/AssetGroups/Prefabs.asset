@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7ee6249ae64ff6544b80752e12607558
+  m_SerializeEntries:
+  - m_GUID: eedbef45461e9c646be3ccc7f1bce2e1
+    m_Address: Assets/Prefab/Popup/TownSelect/btnTownSelectItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 321e67a65eaa9cf4ea898c50052f9700
+    m_Address: Assets/Prefab/Popup/SelectStageConfirm/btnUnitInfoItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3815e218e54d984091362916d82fb86
+    m_Address: Assets/Prefab/Spawner/NetxEnemyListItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4e2dc65567f16524dbcfe7aa2bb4b5cf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 21d94b135857bdb498b6cdd127d42a98, type: 2}
+    - {fileID: 11400000, guid: 51318beed7242114e83c554225e6196a, type: 2}

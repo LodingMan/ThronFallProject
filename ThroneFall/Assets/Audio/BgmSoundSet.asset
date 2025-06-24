@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a7aec763242954897cefa76ed9af64, type: 3}
+  m_Name: BgmSoundSet
+  m_EditorClassIdentifier: 
+  soundType: 0
+  pairList:
+  - key: Bgm_Lobby
+    clip: {fileID: 8300000, guid: c55b830c1ff7f6740a26f0712cddd483, type: 3}
+  - key: Bgm_InGame
+    clip: {fileID: 8300000, guid: 32bc492862c36674fb1aceccfab6e7d1, type: 3}
+  - key: Bgm_Title
+    clip: {fileID: 8300000, guid: 3e10cc264f75b7546afdce0a91980759, type: 3}

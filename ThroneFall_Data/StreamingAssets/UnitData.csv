@@ -1,0 +1,5 @@
+ID,Tier,HP,Speed,Damage,AttackCoolDown,AttackRange,UnitName,IconName
+Enemy_Warrior_Melee,1,150,5,10,2.5,2,Warrior,UnitImg_Enemy_Warrior
+Enemy_Archer_Range,1,100,5,10,2.5,15,Archer,UnitImg_Enemy_Archer
+Ally_Warrior_Melee,1,30,5,15,1.5,2,Warrior,UnitImg_Warrior
+Player,0,500,8,40,2.0,25,Player,UnitImg_Player
